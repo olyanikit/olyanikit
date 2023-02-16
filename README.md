@@ -1,4 +1,4 @@
-### Hi, I'm Olga 👋
+### Hi! I'm Olga, data scientist passionate about maths and statistics
 
 <!--
 **olyanikit/olyanikit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
